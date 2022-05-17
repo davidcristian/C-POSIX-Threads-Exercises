@@ -1,1 +1,1 @@
-# C-POSIX-Threads-Semaphores-Exercises
+# C-POSIX-Threading-Exercises
