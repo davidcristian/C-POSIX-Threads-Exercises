@@ -1,1 +1,1 @@
-# C-POSIX-Threading-Exercises
+# C-POSIX-Threads-Exercises
